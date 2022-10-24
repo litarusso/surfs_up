@@ -7,9 +7,11 @@ This analysis aims to find out if Oahu is the perfect place for our Ice Cream sh
 In the tables below, you can see temperatures for June and December. 
  
 ![June_temps](https://user-images.githubusercontent.com/111788394/197587551-a8b7469c-ad51-40a3-9718-805a8bbd08c2.png)
+
 Table 1 
  
 ![December_temps](https://user-images.githubusercontent.com/111788394/197424399-ecbd89f8-5695-481d-86b5-8e65b22e54ac.png)
+
 Table 2
  
 ##Results
@@ -24,9 +26,11 @@ There are some key differences between those two months:
 In the tables below, you can find the average temperatures for those two months in seven years. 
  
 ![June_Summary_Istatistics](https://user-images.githubusercontent.com/111788394/197424591-e0217322-c234-4937-93d0-2504af2b5946.png)
+
 Table 3
 
 ![December_Summary Istatistics](https://user-images.githubusercontent.com/111788394/197424597-d33ba039-0a41-4995-9e1b-7cf46a5255f3.png)
+
 Table 4
 
 We can see from the tables below that both months are suitable for surfing and swimming. I did a little research on the Internet and found that According to "Men's Journal" (mensjournal.com), winter surfing is possible even when the temperature is as cold as 50 F with a good wetsuit. 
