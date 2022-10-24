@@ -11,15 +11,18 @@ In the tables below you can see temperatures for the months of June and December
 
 ##Results
 
+There are some key differences between those two months:
+- The average temperature for the month of June is 74.9 F, while the average for the month of December is 71 F. 
+- The minimum temperature for June is 64 F, while the minimum temperature for December is 56 F.
+- The maximum temperature for June is 85 F, and the maximum temperature for December is 83 F. 
+
+##Summary
+
 In the tables below, you can find the average temperatures for those two months in seven years. 
 
 ![June_Summary_Istatistics](https://user-images.githubusercontent.com/111788394/197424591-e0217322-c234-4937-93d0-2504af2b5946.png)
 
 ![December_Summary Istatistics](https://user-images.githubusercontent.com/111788394/197424597-d33ba039-0a41-4995-9e1b-7cf46a5255f3.png)
 
-You can see that there are several differences between thos two months:
-- The average temperature for the month of June is 74.9 F, while the average for the month of December is 71 F. 
-- The minimum temperature for June is 64 F, while the minimum temperature for December is 56 F.
-- The maximum temperature for June is 85 F, and the maximum temperature for December is 83 F. 
 
-##Summary
+We can see from the tables below that both of the months are good fpr surfing and swimming. According to Men's Journal (mensjournal.com) winter surfing is possible even when the temperature is as cold as 50 F with a good wetsuit. After my analysis, we can conclude that Oahu is a good place for an Ice Cream shop, as it is possible to surf almost all year long. 
