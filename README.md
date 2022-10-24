@@ -6,16 +6,14 @@ The purpose of this analysis is to find out if Oahu is the perfect place for our
 
 In the tables below you can see temperatures for the months of June and December. 
  
+<p align="center">
+ ![June_temps](https://user-images.githubusercontent.com/111788394/197585267-56932d86-a3db-4e23-a8ca-7c5198220f45.png)
 
-   <p align="center">
-![June_temps](https://user-images.githubusercontent.com/111788394/197585267-56932d86-a3db-4e23-a8ca-7c5198220f45.png)
-
- 
  <p align="center"> 
  Table 1
  
-   <p align="center"> 
-  ![December_temps](https://user-images.githubusercontent.com/111788394/197424399-ecbd89f8-5695-481d-86b5-8e65b22e54ac.png)
+<p align="center"> 
+ ![December_temps](https://user-images.githubusercontent.com/111788394/197424399-ecbd89f8-5695-481d-86b5-8e65b22e54ac.png)
 
  <p align="center"> 
  Table 2
